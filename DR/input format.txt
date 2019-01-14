@@ -1,0 +1,1 @@
+java -jar DR.jar XXXXXXXXXX@gmail.com password https api.enterprise.apigee.com orgname C:\Users\path to text file having facade envs list....\dontconsiderenvs.txt

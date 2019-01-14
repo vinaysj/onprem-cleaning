@@ -1,0 +1,1 @@
+XXXXXXXXX@gmail.com password https api.enterprise.apigee.com org envname C:path to proxy list file...\proxylist.txt C:\path to facade envs....\dontconsiderenvs.txt
